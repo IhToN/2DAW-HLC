@@ -1,0 +1,23 @@
+{
+  "name": "2DAW-HLC",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./app/js/index.js",
+  "scripts": {
+    "build": "npm build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IhToN/2DAW-HLC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IhToN/2DAW-HLC/issues"
+  },
+  "homepage": "https://github.com/IhToN/2DAW-HLC#readme",
+  "devDependencies": {
+    "webpack": "^3.6.0"
+  }
+}
